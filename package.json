@@ -3,7 +3,7 @@
 	"displayName": "",
 	"publisher": "bung87",
 	"description": "convert typescript to Nim",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"engines": {
 		"vscode": "^1.43.0"
 	},
